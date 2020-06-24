@@ -9,7 +9,7 @@ Projeto criado seguintes os cursos da Alura para aprender o Framework Laravel.
 [Laravel parte 2: Trabalhando com Autenticação, Relacionamentos e Testes](https://www.alura.com.br/curso-online-laravel-autenticacao-relacionamentos-testes)
 
 
-###Subindo para producao
+### Subindo para producao
 
 1. Atualizar o **APP_KEY** com o comando abaixo `php artisan key:generate`
 
