@@ -8,6 +8,9 @@ Projeto criado seguintes os cursos da Alura para aprender o Framework Laravel.
 
 [Laravel parte 2: Trabalhando com Autenticação, Relacionamentos e Testes](https://www.alura.com.br/curso-online-laravel-autenticacao-relacionamentos-testes)
 
+### Actions
+
+Neste projeto foi configurado uma action no Github que fará o processo de teste unitário quando receber um push.
 
 ### Subindo para producao
 
